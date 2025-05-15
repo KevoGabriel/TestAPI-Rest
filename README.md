@@ -43,7 +43,5 @@ cd seu-repositorio</code></pre>
     <li><code>/</code> – Rota principal que renderiza a página <code>index.ejs</code>.</li>
   </ul>
 
-  <h2>📄 Licença</h2>
-  <p>Este projeto está licenciado sob os termos da <a href="LICENSE">MIT License</a>, se aplicável.</p>
 </body>
 </html>
