@@ -3,7 +3,7 @@
   <h1>Test APIs Rest</h1>
   <p>Este é um projeto básico utilizando <a href="https://nodejs.org/" target="_blank">Node.js</a>, 
     <a href="https://expressjs.com/" target="_blank">Express</a> e 
-    <a href="https://ejs.co/" target="_blank">EJS</a>. Ele serve como uma aplicação web simples que renderiza páginas dinâmicas.</p>
+    <a href="https://ejs.co/" target="_blank">EJS</a>. Ele serve como uma aplicação web simples que renderiza páginas dinâmicas, com finalidade de consultar uma API externa de Segredos da App Brewery.</p>
 
   <h2>📁 Estrutura do Projeto</h2>
   <pre>
